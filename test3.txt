@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2025-5AF8
+
+ Directory of C:\Users\jimmy\Desktop\Tools\Git\Test Project
+
+09/06/2022  01:47 AM    <DIR>          .
+09/06/2022  01:42 AM    <DIR>          ..
+09/06/2022  01:23 AM                33 index.html
+09/06/2022  01:20 AM                11 README.md
+09/06/2022  01:22 AM                21 test1.txt
+09/06/2022  01:23 AM                44 test2.txt
+09/06/2022  01:47 AM                 0 test3.txt
+               5 File(s)            109 bytes
+               2 Dir(s)  73,587,298,304 bytes free
